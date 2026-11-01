@@ -23,7 +23,11 @@
 
 <img src="https://streak-stats.demolab.com?user=TiTanFloriant&theme=dark&hide_border=true&background=0d1117&ring=ff2e97&fire=ff2e97&currStreakLabel=ff2e97" />
 
-### 🛠️ Tools & Stack
+### 📊 Stats GitHub
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiTanFloriant&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiTanFloriant&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiTanFloriant&theme=github_dark" />
 
 <img src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
