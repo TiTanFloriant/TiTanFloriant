@@ -18,16 +18,11 @@
 
 ### 📊 Stats GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TiTanFloriant&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e97&icon_color=ff2e97&text_color=c9d1d9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiTanFloriant&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e97&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com?user=TiTanFloriant&theme=dark&hide_border=true&background=0d1117&ring=ff2e97&fire=ff2e97&currStreakLabel=ff2e97" />
-
-### 📊 Stats GitHub
-
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiTanFloriant&theme=github_dark" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TiTanFloriant&theme=github_dark" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TiTanFloriant&theme=github_dark" />
+
+### 🛠️ Tools & Stack
 
 <img src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
