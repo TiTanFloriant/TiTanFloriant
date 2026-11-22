@@ -21,7 +21,8 @@ local xeno = {
     pseudo   = "Xeno404",
     role     = "Développeur FiveM",
     studio   = "XenoStudio",
-    serveurs = { "FeliCity", "WorldLife RP", "GMK Life" },
+    serveurs = { "FeliCity", "WorldLife RP", "GMK Life", "FeliSky"},
+    project = { "XenoStudio", "X DEV", XenoOfusc", "Zinz1-Host" }
     focus    = { "Scripts Lua/JS", "Panels web", "Anti-cheat" },
     devise   = "Build. Optimise. Repeat."
 }
@@ -33,6 +34,11 @@ local xeno = {
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=lua,js,py,nodejs,html,css,mysql,git,discord,vscode,cursor&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-FF2E97?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 
 </div>
