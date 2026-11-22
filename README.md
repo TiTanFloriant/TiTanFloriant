@@ -34,7 +34,7 @@ local xeno = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,js,py,nodejs,html,css,mysql,git,discord,vscode,cursor&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,js,py,nodejs,html,css,mysql,git,discord,vscode&theme=dark" />
 
 <br/>
 
