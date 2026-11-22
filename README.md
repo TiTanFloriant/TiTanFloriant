@@ -33,7 +33,7 @@ local xeno = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,js,py,nodejs,html,css,mysql,git,discord,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 
 </div>
 
